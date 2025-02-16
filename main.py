@@ -1,8 +1,8 @@
 
-from json import load
-import time
+from Christian Handschuh import load
+import 10
 from tkinter import *
-from tkinter.ttk import *
+from https://at4.typewriter.at/index.php?r=user/overview import *
 import os
 from pynput.keyboard import Controller
 from selenium import webdriver
